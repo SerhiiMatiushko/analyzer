@@ -23,4 +23,4 @@ Examples of source and result files:
 ~/resources/myResults.txt
 
 Compiled code (analyzer.jar):
-https://github.com/SerhiiMatiushko/analyzer/analyzer.jar
+https://github.com/SerhiiMatiushko/analyzer/blob/master/analyzer.jar
