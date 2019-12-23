@@ -1,5 +1,5 @@
 # Analyzer
-###Solved test task for Luxoft
+Solved test task for Luxoft
 
 API for analyzing financial data.
 
@@ -24,3 +24,6 @@ Examples of source and result files:
 
 Compiled code (analyzer.jar):
 https://github.com/SerhiiMatiushko/analyzer/blob/master/analyzer.jar
+
+Run jar file in Terminal:
+ * java -jar analyzer.jar
